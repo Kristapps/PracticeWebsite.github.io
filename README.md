@@ -1,2 +1,3 @@
-# PracticeWebsite.github.io
+# Sandbocks website
+
 Me having a practice with webdev
